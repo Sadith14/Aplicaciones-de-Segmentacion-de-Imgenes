@@ -1,0 +1,15 @@
+D:\Decimo_Semestre\Vision_Artificial\PT1\TestOpenCV\x64\Debug\opencv_core4d.dll
+D:\Decimo_Semestre\Vision_Artificial\PT1\TestOpenCV\x64\Debug\zd.dll
+D:\Decimo_Semestre\Vision_Artificial\PT1\TestOpenCV\x64\Debug\opencv_imgproc4d.dll
+D:\Decimo_Semestre\Vision_Artificial\PT1\TestOpenCV\x64\Debug\opencv_imgcodecs4d.dll
+D:\Decimo_Semestre\Vision_Artificial\PT1\TestOpenCV\x64\Debug\jpeg62.dll
+D:\Decimo_Semestre\Vision_Artificial\PT1\TestOpenCV\x64\Debug\libwebpdecoder.dll
+D:\Decimo_Semestre\Vision_Artificial\PT1\TestOpenCV\x64\Debug\libwebp.dll
+D:\Decimo_Semestre\Vision_Artificial\PT1\TestOpenCV\x64\Debug\libsharpyuv.dll
+D:\Decimo_Semestre\Vision_Artificial\PT1\TestOpenCV\x64\Debug\libwebpdemux.dll
+D:\Decimo_Semestre\Vision_Artificial\PT1\TestOpenCV\x64\Debug\libwebpmux.dll
+D:\Decimo_Semestre\Vision_Artificial\PT1\TestOpenCV\x64\Debug\libpng16d.dll
+D:\Decimo_Semestre\Vision_Artificial\PT1\TestOpenCV\x64\Debug\tiffd.dll
+D:\Decimo_Semestre\Vision_Artificial\PT1\TestOpenCV\x64\Debug\liblzma.dll
+D:\Decimo_Semestre\Vision_Artificial\PT1\TestOpenCV\x64\Debug\opencv_highgui4d.dll
+D:\Decimo_Semestre\Vision_Artificial\PT1\TestOpenCV\x64\Debug\opencv_videoio4d.dll
