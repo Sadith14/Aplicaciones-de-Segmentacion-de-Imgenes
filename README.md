@@ -1,1 +1,1 @@
-# Aplicaciones-de-Segmentacion-de-Imgenes
+# Aplicaciones-de-Segmentacion-de-Imágenes
