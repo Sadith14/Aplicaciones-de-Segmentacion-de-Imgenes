@@ -1,0 +1,16 @@
+{
+  "otsu": {
+    "defecto_oscuro": true,
+    "sigma": 1,
+    "k_close": 14,
+    "area_min": 446
+  },
+  "adaptativo": {
+    "defecto_oscuro": true,
+    "sigma": 24,
+    "k_close": 10,
+    "area_min": 44,
+    "bloque": 30,
+    "C": 8
+  }
+}
